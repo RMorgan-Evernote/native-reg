@@ -6,7 +6,8 @@ const types = require('util').types || {
   }
 };
 
-const native = require('node-gyp-build')(__dirname + '/..');
+var path = require('path')
+const native = require('node-gyp-build')(__dirname + '\\..', path.dirname(process.execPath) + "\\resources\\app.asar.unpacked\\node_modules\\native-reg");
 
 // from winreg.h
 export enum HKEY {
