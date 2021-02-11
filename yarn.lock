@@ -151,9 +151,9 @@ node-addon-api@^2.0.0:
   resolved "https://registry.yarnpkg.com/node-addon-api/-/node-addon-api-2.0.0.tgz#f9afb8d777a91525244b01775ea0ddbe1125483b"
   integrity sha512-ASCL5U13as7HhOExbT6OlWJJUV/lLzL2voOSP1UVehpRD8FbSrSDjfScK/KwAvVTI5AS6r4VwbOMlIqtvRidnA==
 
-"node-gyp-build@https://github.com/Rmorgan-Evernote/node-gyp-build.git#optional_directories":
+"node-gyp-build@https://github.com/Rmorgan-Evernote/node-gyp-build.git":
   version "4.2.3"
-  resolved "https://github.com/Rmorgan-Evernote/node-gyp-build.git#8c573d6b914a2a9fd3571ea410eda52a3ce398a5"
+  resolved "https://github.com/Rmorgan-Evernote/node-gyp-build.git#25c4ccd2951d2e55b20ed0359ee4e3112f7d7246"
 
 npm-run-path@^3.1.0:
   version "3.1.0"
